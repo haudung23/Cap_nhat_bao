@@ -1,1 +1,5 @@
-# Cap_nhat_bao
+# Multi-agent Debate — Daily Research Digest
+
+| Ngày | Số bài mới | File |
+|------|------------|------|
+| 2026-04-23 | 5 | [noi_dung_2026-04-23.md](./noi_dung_2026-04-23.md) |
