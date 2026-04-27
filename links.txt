@@ -18,3 +18,8 @@ https://arxiv.org/abs/2511.11306
 https://arxiv.org/abs/2511.07784
 https://link.springer.com/article/10.1007/s44443-025-00353-3
 https://arxiv.org/abs/2508.17536
+https://arxiv.org/abs/2305.19118
+https://arxiv.org/abs/2510.20733
+https://aclanthology.org/2025.findings-acl.1141/
+https://arxiv.org/abs/2507.05981
+https://www.mdpi.com/2076-3417/15/7/3676
