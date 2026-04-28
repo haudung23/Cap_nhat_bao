@@ -23,3 +23,8 @@ https://arxiv.org/abs/2510.20733
 https://aclanthology.org/2025.findings-acl.1141/
 https://arxiv.org/abs/2507.05981
 https://www.mdpi.com/2076-3417/15/7/3676
+https://arxiv.org/abs/2410.04663
+https://arxiv.org/abs/2511.11040
+https://arxiv.org/abs/2601.17152
+https://arxiv.org/abs/2504.05047
+https://arxiv.org/abs/2601.02854
